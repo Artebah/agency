@@ -2,7 +2,11 @@
 Agency is a static website project built entirely using HTML. It is designed to showcase agency services and portfolios with a clean and professional look.
 
 ## Technologies
-* HTML (100%)
+* SCSS
+* HTML
+* JavaScript
+* Gulp
+* swiper.js
 
 ## Features
 **Responsive Design:**
